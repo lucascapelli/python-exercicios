@@ -6,6 +6,8 @@ e alguns experimentos iniciais com Django.
 **O foco não é um projeto final**, mas sim o processo real de 
 aprendizado, começando do básico absoluto e avançando gradualmente, sem pular etapas.
 
+> Repositório em construção, com atualizações feitas gradualmente, conforme disponibilidade.
+
 ## 📁 Estrutura do repositório
 
 - `atividades feitas em sala de aula/`
