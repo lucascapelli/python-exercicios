@@ -1,8 +1,10 @@
 # 🐍 Exercícios de Python e Django
 
-Este repositório contém exercícios práticos de Python organizados por tema
-e um projeto prático em Django utilizando a entidade **Pessoa** como base
-para o aprendizado de backend, banco de dados e MVC.
+Este repositório reúne **exercícios práticos de Python**, organizados por tema, 
+e alguns experimentos iniciais com Django.
+
+**O foco não é um projeto final**, mas sim o processo real de 
+aprendizado, começando do básico absoluto e avançando gradualmente, sem pular etapas.
 
 ## 📁 Estrutura do repositório
 
@@ -26,18 +28,19 @@ para o aprendizado de backend, banco de dados e MVC.
 
 - `exercicios_basicos_de_crud_django_e_restframeworkapi/`
   → Projeto Django voltado ao estudo de:
-    - Modelagem de dados com a entidade **Pessoa**
+    - Modelagem de dados com entidades
     - Admin do Django
     - Views, URLs e Templates
     - CRUD básico e fundamentos de API
 
 ## 🧠 Objetivo
 
-Consolidar fundamentos de Python e evoluir para o desenvolvimento backend
-com Django, usando a entidade **Pessoa** como fio condutor pedagógico.
+Consolidar **fundamentos sólidos de Python** e, de forma gradual, ter contato com o backend em Django.
 
-Este repositório reflete o processo real de aprendizado,
-do básico ao framework.
+Este repositório reflete um aprendizado **sem atalhos:**
+primeiro a lógica, depois a estrutura, só então o framework.
+
+Inicialmente criado para **estudo próprio**, hoje é compartilhado para ajudar **novos desenvolvedores** que querem aprender do jeito certo.
 
 ## 🚀 Tecnologias usadas
 
